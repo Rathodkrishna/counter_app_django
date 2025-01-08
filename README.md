@@ -25,4 +25,4 @@ python manage.py runserver
 ```
 
 Navigate to to http://127.0.0.1:8000
-# counter_app_django
+
